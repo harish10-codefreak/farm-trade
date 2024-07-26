@@ -1,0 +1,9 @@
+.heading{
+    text-align: center;
+}
+.table-bottom{
+    padding-bottom: 40px;
+}
+.z-top{
+    z-index: 999999999999;
+}
